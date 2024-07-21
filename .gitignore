@@ -1,0 +1,4 @@
+logs/dag_id=DNS_case
+logs/dag_processor_manager
+logs/scheduler
+data/
